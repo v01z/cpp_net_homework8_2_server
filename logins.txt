@@ -1,0 +1,5 @@
+idroot admin adminROOT
+idguest guest guest
+iduserpuser userOne pass1
+iduserman bertuccho pass2
+idbug Kompot pass3
